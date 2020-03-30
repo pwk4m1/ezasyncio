@@ -3,7 +3,7 @@ Simplified multithreading in python
 Example code:
 
 ```python
-from asycez import *
+from ezasyncio
 import time
 
 def foo(arg1, arg2):
