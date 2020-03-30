@@ -21,5 +21,5 @@ Expected output:
 ```
   4:21:00 >> foo is running now :)
   4:21:05 >> foo exiting, arg1: hello, arg2: world
-  4:21:06 >> main is exiting
+  4:21:06 >> Main is exiting
 ```
