@@ -3,7 +3,9 @@ Simplified multithreading in python
 Example code:
 
 ```python
+from asycez import *
 import time
+
 def foo(arg1, arg2):
     time.sleep(5)
     print("foo exiting, arg1: %s, arg2: %s" % (arg1, arg2))
