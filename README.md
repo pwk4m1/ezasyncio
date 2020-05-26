@@ -1,5 +1,6 @@
 # ezasyncio
 Simplified multithreading in python
+
 Example code:
 
 ```python
